@@ -1,0 +1,14 @@
+- **ITAI4373 – Creative Intelligence**
+  - Final group project: [ArtConnect AI – Artist Promotion Assistant](https://github.com/Kpkola/ITAI4373_Final-Project_Team-2_Creative-Intelligence)
+  - Focus: AI-driven opportunity scoring, brand-aligned reply suggestions, human-in-the-loop approvals, and analytics dashboard for a visual artist.
+### ArtConnect AI – AI-Powered Artist Promotion Assistant
+- **Course:** ITAI4373 – Creative Intelligence  
+- **Repo:** [ITAI4373_Final-Project_Team-2_Creative-Intelligence](https://github.com/Kpkola/ITAI4373_Final-Project_Team-2_Creative-Intelligence)  
+- **Problem:** Visual artists struggle to keep up with DMs, comments, and potential commissions across platforms.
+- **Solution:** An AI assistant that:
+  - Monitors simulated Instagram and Twitter interactions
+  - Computes an Opportunity Score (0–100) using keywords, sentiment, user influence, and recency
+  - Generates brand-aligned reply suggestions
+  - Lets the artist Approve / Edit & Approve / Reject suggestions
+  - Logs actions and surfaces live KPIs in a Streamlit dashboard
+- **Tech:** Python, Streamlit, sentiment analysis (VADER), scoring engine, CSV/JSON data handling.
